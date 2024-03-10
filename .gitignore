@@ -18,3 +18,7 @@ app/rasa/.keras
 
 # VS Code files
 .vscode/
+
+# Vim
+*.swp
+*.swo
